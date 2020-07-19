@@ -89,7 +89,18 @@
         
         '公司名称': '//div[contains(@class,"sojob-item-main")]//p[@class="company-name"]/a', ```    
   
+# ipynb py文档链接
 
+[request+xpath 构筑翻页数据和单页数据 ipynb链接](https://github.com/GREGJASON/webmining_liepin/blob/master/%E7%BF%BB%E9%A1%B5%E6%95%B0%E6%8D%AE.ipynb)
+
+[scrapy框架所用的spider py文件](https://github.com/GREGJASON/webmining_liepin/blob/master/LiePing/spiders/LP.py)
+
+## 数据连接    
+[翻页数据](https://github.com/GREGJASON/webmining_liepin/blob/master/20%E6%98%A5_Web%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98_final_%E6%96%B0%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5_%E7%BF%BB%E9%A1%B5.xlsx)  
+
+[scrapy所爬取的数据](https://github.com/GREGJASON/webmining_liepin/blob/master/LiePing/%E7%8C%8E%E8%81%98%E6%96%B0%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5.xls)  
+
+[单页数据](https://github.com/GREGJASON/webmining_liepin/blob/master/20%E6%98%A5_Web%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98_final_%E6%96%B0%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5_%E5%8D%95%E9%A1%B5.xlsx)  
 
 # 心得总结及感谢
 感谢刘炜豪 李铮两位同学 在我使用scrapinghub上面提供的帮助
